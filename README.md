@@ -10,4 +10,5 @@ a trading app including features such as
 - learning section
 
 Made from and for real traders. 
- 
+
+temp link: https://bruninvestor.netlify.app
